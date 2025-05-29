@@ -1,0 +1,9 @@
+From: john.doe@example.com
+Subject: Complaint about delayed shipment
+
+Dear Support,
+
+I am very disappointed with the delay in my order. Please resolve this as soon as possible.
+
+Thanks,
+John Doe

@@ -1,0 +1,5 @@
+openai
+pdfplumber
+langchain
+tiktoken
+openai
