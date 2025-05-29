@@ -1,0 +1,9 @@
+From: customer@example.com
+Subject: RFQ for new product
+
+Hi Team,
+
+We would like a Request for Quote for the items listed in the attached document.
+
+Regards,
+Customer
